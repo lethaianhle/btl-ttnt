@@ -1,4 +1,4 @@
-# 8 Number Puzzle
+# 8 Number Puzzle - Bài tập lớn Trí tuệ nhân tạo
 
   From: [Anuj Kumar](https://github.com/anujkumar21) <3
 
